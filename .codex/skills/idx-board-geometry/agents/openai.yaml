@@ -1,0 +1,4 @@
+interface:
+  display_name: "IDX Board Geometry"
+  short_description: "Interpret IDX board and 2D geometry"
+  default_prompt: "Use $idx-board-geometry to extract or visualize board outlines, layers, curves, and cutouts from IDX."

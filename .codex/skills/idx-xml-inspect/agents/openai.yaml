@@ -1,0 +1,4 @@
+interface:
+  display_name: "IDX XML Inspect"
+  short_description: "Inspect IDX XML structure and metadata"
+  default_prompt: "Use $idx-xml-inspect to summarize or debug an IDX XML file."

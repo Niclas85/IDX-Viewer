@@ -1,0 +1,4 @@
+interface:
+  display_name: "IDX Component Library"
+  short_description: "Work with IDX components, bodies, pins"
+  default_prompt: "Use $idx-component-library to model or inspect IDX component library data, bodies, pins, padstacks, and properties."

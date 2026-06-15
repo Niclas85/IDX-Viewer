@@ -1,0 +1,4 @@
+interface:
+  display_name: "IDX Collaboration Workflow"
+  short_description: "Handle IDX baselines and changes"
+  default_prompt: "Use $idx-collaboration-workflow to reason about IDX baselines, change messages, history, and ECAD/MCAD collaboration."
